@@ -134,7 +134,6 @@ Bu bulgulara dayanarak, bal fiyatlarını tahmin etmek için bir regresyon model
 
 - **Model Oluşturma:** Viskozite, saflık ve polen türü gibi özellikleri kullanarak tahmin modelleri geliştirmek.
 - **Model Değerlendirmesi:** Modelin performansını uygun metriklerle (örneğin RMSE, MAE) değerlendirmek.
-- **Özellik Mühendisliği:** Model doğruluğunu artırabilecek ek özellikler veya dönüşümler keşfetmek.
 - **Karşılaştırmalı Analiz:** Diğer makine öğrenimi modellerini (örneğin Random Forest, Gradient Boosting) araştırmak ve etkinliklerini karşılaştırmak.
 
 ## Referanslar
