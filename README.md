@@ -27,7 +27,7 @@ Bu projede, balın **saflığı** ve **fiyatını** etkileyen faktörleri anlama
 
 ## Veri Seti Açıklaması
 
-- **Veri Seti Adı:** Balın Saflığını ve Fiyatını Tahmin Etme
+- **Veri Seti Adı:** Predict Purity and Price of Honey
 - **Kaynak:** [Kaggle - Predict Purity and Price of Honey](https://www.kaggle.com/datasets/stealthtechnologies/predict-purity-and-price-of-honey)
 - **Açıklama:** Bu veri seti, bal örneklerinin çeşitli özelliklerini içerir; kimyasal özellikler, polen analizi, saflık ve fiyat gibi. Balın kalitesini ve piyasa fiyatını etkileyen faktörleri keşfetmek için fırsat sunar.
 
@@ -98,7 +98,7 @@ Saflık ile diğer özellikler (CS, Density, WC, pH, EC, F, G, Viscosity, Price)
 
 ### Manuka Balı Analizi
 
-Manuka balının antibiyotik özelliği ile bilindiği için, bu özellikleri etkileyen faktörleri inceledim:
+Manuka balının antibiyotik özelliği olduğunu ve bu nedenle pahalı olduğu bilindiği için, bu özellikleri etkileyen faktörleri inceledim:
 
 - **Düşük Su İçeriği (WC)**
 - **Düşük pH Seviyesi**
@@ -122,7 +122,7 @@ Değişkenler arasındaki ilişkileri incelemek için korelasyon analizini gerç
 
 Bu analiz sonucunda, **viskozite**nin balın **saflığı** ve **fiyatı** üzerinde önemli bir faktör olduğunu belirledim. Daha yüksek viskoziteye sahip ballar genellikle daha saf ve daha yüksek fiyatlıdır. Ayrıca, belirli polen türlerinin (örneğin Manuka) daha yüksek fiyatlandırıldığını, ancak fizikokimyasal özelliklerin genel olarak benzer olduğunu gözlemledim.
 
-**Önemli İçgörüler:**
+**Önemli Noktalar:**
 
 - **Pazar Segmentasyonu:** Bal türleri, polen türü ve fiyatına göre farklı pazar kategorilerine ayrılabilir (premium, orta seviye, ekonomik).
 - **Saflık Göstergeleri:** Viskozite, balın saflığının potansiyel bir göstergesi olarak kullanılabilir ve tahmin modellerinde önemli bir özelliktir.
