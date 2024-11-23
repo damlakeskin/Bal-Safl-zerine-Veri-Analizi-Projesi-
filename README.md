@@ -139,5 +139,5 @@ Bu bulgulara dayanarak, bal fiyatlarını tahmin etmek için bir regresyon model
 ## Referanslar
 
 - **Veri Seti:** [Predict Purity and Price of Honey](https://www.kaggle.com/datasets/stealthtechnologies/predict-purity-and-price-of-honey)
-- **Kaggle Notebook:** *[Eklenecek]*
+- **Kaggle Notebook:** [Notebook](https://www.kaggle.com/code/ayemdamlakeskin/bal-safl-zerine-veri-analizi)
 
