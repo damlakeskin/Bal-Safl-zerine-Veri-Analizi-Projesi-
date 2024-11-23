@@ -16,7 +16,7 @@
 
 ## Giriş
 
-Bu projede, balın **saflığı** ve **fiyatını** etkileyen faktörleri anlamak amacıyla Kaggle'dan alınan bal veri seti üzerinde kapsamlı bir veri analizi gerçekleştirdim. Keşifsel veri analizi (EDA) ile balın çeşitli fizikokimyasal özellikleri arasındaki ilişkileri ve bu özelliklerin kalite ve piyasa değeri üzerindeki etkilerini inceledim.
+Bu projede, balın **saflığı** ve **fiyatını** etkileyen faktörleri anlamak amacıyla Kaggle'dan alınan bal veri seti üzerinde kapsamlı bir veri analizi gerçekleştirdim. Keşifsel veri analizi (EDA) ile balın çeşitli kimyasal özellikleri arasındaki ilişkileri ve bu özelliklerin kalite ve piyasa değeri üzerindeki etkilerini inceledim.
 
 **Amaçlarım:**
 
